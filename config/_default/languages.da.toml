@@ -1,0 +1,14 @@
+disabled = false
+locale = "da-DK"
+label = "Dansk"
+weight = 1
+title = "Rasulls Portfolio"
+
+[params]
+displayName = "DA"
+isoCode = "da"
+rtl = false
+dateFormat = "02/01/06"
+
+[params.author]
+name = "Rasull"

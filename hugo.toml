@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'My New Hugo Project'
+baseURL = 'https://reose7452.github.io/portfolio/'
+locale = 'da-dk'
+title = 'Rasulls Portfolio'
 
 [caches]
   [caches.images]
