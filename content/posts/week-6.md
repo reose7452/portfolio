@@ -1,6 +1,6 @@
 +++
 title = "Week 6 REST Assured, Testcontainers og integrationstests"
-date = 2026-09-26
+date = 2026-10-03
 draft = false
 +++
 

@@ -1,6 +1,6 @@
 +++
 title = "Week 5 REST API, Javalin og dokumentation"
-date = 2026-09-19
+date = 2026-09-26
 draft = false
 +++
 
