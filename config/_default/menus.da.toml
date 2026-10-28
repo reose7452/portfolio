@@ -2,3 +2,8 @@
 name = "Portfolio"
 pageRef = "posts"
 weight = 10
+
+[[main]]
+name = "Exam Portfolio"
+pageRef = "exam-portfolio"
+weight = 20
