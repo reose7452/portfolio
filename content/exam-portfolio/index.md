@@ -1,7 +1,7 @@
 +++
 title = "Exam Portfolio"
 description = "Udvalgte indlæg om udviklingen af TrainingAppExam til backendeksamen på 3. semester."
-draft = false
+draft = true
 showDate = false
 showReadingTime = false
 showPagination = false
